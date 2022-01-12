@@ -1,5 +1,7 @@
-#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms](https://github.com/Dev-Golem/ticket-tool#terms) - [💡 Features](https://github.com/Dev-Golem/ticket-tool#Features)
+#### [🔗 Discord Link](https://discord.gg/zzugRm6Sbk) - [📖 Terms](https://github.com/Dev-Golem/ticket-tool#terms) - [💡 Features](https://github.com/Dev-Golem/ticket-tool#Features) - [Support](https://github.com/Dev-Golem/ticket-tool#support)
 
+# Support
+if you need support join the server and create a ticket
 
 # Description
 All the source code for the ticket tool bot
